@@ -1,0 +1,12 @@
+- linkedlist is not storing a data in a contigues way,means if we want to add the data at the middle at any poin we can add,
+- linked list is a liner data structure.
+- in linkedlist we have a nodes --->>>> noides contain 2 items : (i) data (ii) pointer - next node adddress
+- there are mainly 3 types of the linkedlist
+        (i) single linkedlist
+        (ii) doubly linked list
+        (iii) circular linkedlist
+
+- in linkedlist for data insertion we have 3 methos
+        (i) At the very end (after the last node)
+        (ii) At the very beginng (at the place of 1st node)
+        (iii) At any location

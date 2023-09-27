@@ -1,0 +1,6 @@
+- Deque interface present in java.util package is a subtype of the queue interface.
+- The Deque is related to the double-ended queue that supports the addition or removal of elements from either end of the data structure.
+- It can either be used as a queue(first-in-first-out/FIFO) or as a stack(last-in-first-out/LIFO).
+- Deque is the acronym for double-ended queue.
+- The Deque (double-ended queue) interface in Java is a subinterface of the Queue interface and extends it to provide a double-ended queue, which is a queue that allows elements to be added and removed from both ends.
+- The Deque interface is part of the Java Collections Framework and is used to provide a generic and flexible data structure that can be used to implement a variety of algorithms and data structures.

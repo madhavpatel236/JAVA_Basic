@@ -1,0 +1,26 @@
+------->>>>>>>>>> in the collection we have mainlly 3 parts
+                    (i) list
+                    (ii) set
+                    (iii) Queue
+
+------->>>>>>>>>> Arraylist : - in the arraylist we can add the value at a specific index no.
+- in Arraylist element can add  one by one so we can say that insertion order was preserve.
+- in Arraylist we can add homogenous and Hetirogenous both type of data. 
+
+
+------->>>>>>>>>> LinkedList : in linkedlist we can add the value at a specific index no.
+- in Linkedlist element can add  one by one so we can say that insertion order was preserve.
+- in linkedlist we can add homogenous and Hetirogenous both type of data.
+
+------->>>>>>>>>> ArrayDeque : in ArrayDeque we cannot add the element at a specific index.
+- in ArrayDeque element can add  one by one so we can say that insertion order was preserve.
+- in ArrayDeque we can add homogenous and Hetirogenous both type of data.
+
+------>>>>>>>>>>> PriorityQueue :  in PriorityQueue we cannot add the element at a specific index.
+- in PriorityQueue element cannot add one by one so we can say that insertion order was not preserve,because in PriorityQueue element can be add by priority number.
+- in priorityQueue we can only add Homogenous type of data.
+- we can add repeated element.
+
+------->>>>>>>>>> TreeSet :  in TreeSet we cannot add the element at a specific index.
+- in TreeSet element cannot add one by one so we can say that insertion order was not preserve,because in treeSet follows self-balencing-binaryTree.
+- in TreeSet we can add the both type of data homogenous and Hetirogenous type of data.

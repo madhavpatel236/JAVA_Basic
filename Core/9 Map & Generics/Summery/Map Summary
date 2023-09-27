@@ -1,0 +1,19 @@
+- map is not a part of collection hirircay.
+- in map we can enter a value and key .
+- Characteristics of a Map Interface:
+    --A Map cannot contain duplicate keys and each key can map to at most one value. Some implementations allow null key and null values like the HashMap and LinkedHashMap, but some do not like the TreeMap.
+    -- The order of a map depends on the specific implementations. For example, TreeMap and LinkedHashMap have predictable orders, while HashMap does not.
+    -- There are two interfaces for implementing Map in Java. They are Map and SortedMap, and three classes: HashMap, TreeMap, and LinkedHashMap.
+
+------->>>>>>>>>> HashMap :
+- HashMap is a generic map class.
+- HaseMap cannot preseve the insertion order.
+- haseMap must have a unique key but if we want the same value then we can add the same type of values.
+
+-------->>>>>>>>> Hashtable : 
+- in Hashtable insertion order cannot be maintain.
+- in Hashtable we cannot put null as a key as well as values.
+
+-------->>>>>>>>> TreeMap : 
+- in TreeMap insertion order cannot be maintain but we get a incresing order in a key.
+- in TreeSet we cannot add a null as a key as well as values. 

@@ -1,0 +1,129 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test.Test",
+      "projectName": "JAVA_e1afe9c4"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "bubbleSort",
+      "projectName": "JAVA_e1afe9c4"
+    },
+    {
+      "type": "java",
+      "name": "Second",
+      "request": "launch",
+      "mainClass": "Second1.Second",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Second",
+      "request": "launch",
+      "mainClass": "Collage.First.Second",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "Collage.First.First",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "Collage.Exception.First",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "iteratorOperations",
+      "request": "launch",
+      "mainClass": "iteratorOperations",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Examples",
+      "request": "launch",
+      "mainClass": "Examples",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Assingment",
+      "request": "launch",
+      "mainClass": "Assingment",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "bubbleSort",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Rotation",
+      "request": "launch",
+      "mainClass": "Rotation",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "missing",
+      "request": "launch",
+      "mainClass": "missing",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/MADHAV/JAVA",
+      "program": "d:/MADHAV/JAVA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+-->> in recursion we have mainly 2 subparts
+                (1) base case condition or terminating condition
+                (2) Recursive code
+
+-->> Syntax : 
+        functionName(parameter){
+            if(base condition){
+                return ; 
+            } else{
+                result = functionName(changed parameter)
+            } return result ;
+        }
+
+-->> For finding a space and time complexity we will solve the recurance relation.
+        There are three methods of solving reccrunce relation
+                (1) substitution method
+                (2) recursive tree method
+                (3) Master's Theorem
+
+---->>>> iteration is best compare to the recursion because of the space complexityexity was higher compare to the iteration

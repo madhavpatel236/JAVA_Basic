@@ -1,0 +1,199 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Arithmetic",
+      "request": "launch",
+      "mainClass": "Arithmetic",
+      "projectName": "Core_be06052a"
+    },
+    {
+      "type": "java",
+      "name": "Join",
+      "request": "launch",
+      "mainClass": "Join",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "CreatingNewThreads",
+      "request": "launch",
+      "mainClass": "CreatingNewThreads",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "CreatingNewThread",
+      "request": "launch",
+      "mainClass": "CreatingNewThread",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Theory1",
+      "request": "launch",
+      "mainClass": "Theory1",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Theory",
+      "request": "launch",
+      "mainClass": "Theory",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Theory",
+      "request": "launch",
+      "mainClass": "Multithreading.Theory",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "custom",
+      "request": "launch",
+      "mainClass": "custom",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Basic2",
+      "request": "launch",
+      "mainClass": "Basic2",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Helloworld",
+      "request": "launch",
+      "mainClass": "Helloworld",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "app",
+      "request": "launch",
+      "mainClass": "app",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism",
+      "request": "launch",
+      "mainClass": "Polymorphism",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Basic",
+      "request": "launch",
+      "mainClass": "inheritance.Basic",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Basic",
+      "request": "launch",
+      "mainClass": "Basic",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "first",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Update",
+      "request": "launch",
+      "mainClass": "Update",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Encapsulation",
+      "request": "launch",
+      "mainClass": "Encapsulation",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "game",
+      "request": "launch",
+      "mainClass": "game",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Static1",
+      "request": "launch",
+      "mainClass": "Static1",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "Pangram",
+      "request": "launch",
+      "mainClass": "Pangram",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "StringMethods",
+      "request": "launch",
+      "mainClass": "StringMethods",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "PPA",
+      "request": "launch",
+      "mainClass": "PPA",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "type": "java",
+      "name": "PAP",
+      "request": "launch",
+      "mainClass": "PAP",
+      "projectName": "JAVA_df16bf8b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/MADHAV/JAVA/Multithreading.java",
+      "program": "d:/MADHAV/JAVA/Multithreading.java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+- in HaseSet we cannot enter the index base values.
+- HaseSet cannot preserve insertion number.
+- In HaseSet we can enter the both type of data Homogenous and HEtirogius type of data.
+- HaseSet is efficient in insertion and deletion.
+- in HAseSet we cannot enter the repeted data.
